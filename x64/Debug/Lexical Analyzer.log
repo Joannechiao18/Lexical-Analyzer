@@ -1,0 +1,5 @@
+﻿  Lexical Analyzer.cpp
+C:\Users\joann\Downloads\Lexical-Analyzer-MAIN\Lexical-Analyzer-MAIN\Lexical Analyzer.cpp(34,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\joann\Downloads\Lexical-Analyzer-MAIN\Lexical-Analyzer-MAIN\Lexical Analyzer.cpp(84,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\joann\Downloads\Lexical-Analyzer-MAIN\Lexical-Analyzer-MAIN\Lexical Analyzer.cpp(118,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lexical Analyzer.vcxproj -> C:\Users\joann\Downloads\Lexical-Analyzer-MAIN\Lexical-Analyzer-MAIN\x64\Debug\Lexical Analyzer.exe
