@@ -1,6 +1,6 @@
 # Lexical Analyzer in C++
 
-This repository contains the project files 📂 of `"Lexical Analyzer"` in `C++`.
+This repository contains the project files of `"Lexical Analyzer"` in `C++` from the Programming Languages class. 
 
 ## Output Screen Visuals
 
@@ -12,10 +12,7 @@ This repository contains the project files 📂 of `"Lexical Analyzer"` in `C++`
 
 ## Instructions
 
-1. Install/Open `Visual Studio 2022` and open project files 📂.
-2. Run the project without debugging.
-3. You can change output by changing the `"Source.txt"` file in the project.
+1. Install/Open `Visual Studio` and open project files 📂.
+2. Run the .sln (solution) file without debugging.
+3. You can change the outputs by changing the `"Source.txt"` file in the project.
 
-## Note
-
-Download all the files 📂 in this repository to test.
