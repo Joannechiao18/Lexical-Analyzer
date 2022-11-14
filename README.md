@@ -1,5 +1,7 @@
 # Lexical Analyzer in C++
 
+![](https://img.shields.io/badge/C++-17-red)
+
 This repository contains the project files of `"Lexical Analyzer"` in `C++` from the Programming Languages class. 
 
 ## Output Screen Visuals
@@ -13,6 +15,6 @@ This repository contains the project files of `"Lexical Analyzer"` in `C++` from
 ## Instructions
 
 1. Install/Open `Visual Studio` and open project files 📂.
-2. Run the .sln (solution) file without debugging.
+2. Run the `.sln (solution)` file without debugging.
 3. You can change the outputs by changing the `"Source.txt"` file in the project.
 
