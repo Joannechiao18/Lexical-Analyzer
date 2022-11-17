@@ -10,7 +10,7 @@ This repository contains the project files of `"Lexical Analyzer"` in `C++` from
 
 <p align="center">
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/93377842/145711010-dd7e53dc-732b-454b-9662-89dc7f3c54b0.png"  width="350" height="300" />
+    <img src="https://user-images.githubusercontent.com/93377842/145711010-dd7e53dc-732b-454b-9662-89dc7f3c54b0.png"/>
   </a>
 </p>
 
